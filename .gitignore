@@ -28,9 +28,9 @@ ENV/
 # Log files
 logs/
 
-# Data files (you might want to keep these for demo purposes)
-# Uncomment if you want to exclude
-# csv_data/
+# Data files
+csv_data/
+*.csv
 
 # WebDriver
 chromedriver.exe

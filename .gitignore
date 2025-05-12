@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+selenium_scraper_env/
+venv/
+ENV/
+
+# Log files
+logs/
+
+# Data files (you might want to keep these for demo purposes)
+# Uncomment if you want to exclude
+# csv_data/
+
+# WebDriver
+chromedriver.exe
+geckodriver.exe
+
+# Temporary files
+tmp_script.py
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store 
